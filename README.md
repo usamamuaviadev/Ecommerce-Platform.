@@ -17,9 +17,6 @@ An ecommerce store built with MERN stack, and utilizes third party API's. This e
   * Redux to manage application's state
   * Redux Thunk middleware to handle asynchronous redux actions
 
-🚀 Custom-Hosted Enterprise Version : https://mern-store-gold.vercel.app/
-
-See admin dashboard [demo](https://mernstore-bucket.s3.us-east-2.amazonaws.com/admin.mp4)
 
 ## Languages & tools
 
